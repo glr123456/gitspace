@@ -1,1 +1,3 @@
 public static String name = "zhangsan";
+
+public static String age = 32;
